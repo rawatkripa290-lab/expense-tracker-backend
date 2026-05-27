@@ -119,15 +119,12 @@ Example:
 
 You can deploy the frontend on:
 
-* Vercel
 * Netlify
 
 ### Backend
 
-You can deploy the backend on:
-
 * Render
-* Railway
+
 
 ---
 
@@ -143,15 +140,10 @@ Contributions are welcome.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👩‍💻 Author
 
 **Kripa Rawat**
 
-* GitHub: [https://github.com/your-github-username](https://github.com/your-github-username)
-* LinkedIn: [https://linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+* GitHub: [https://github.com/your-github-username](https://github.com/rawatkripa290-lab)
+* LinkedIn: [https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/kripa-rawat )
